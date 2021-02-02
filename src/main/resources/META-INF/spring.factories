@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+tech.jmeng.datahub.spring.boot.conf.DataHubAutoConfiguration
